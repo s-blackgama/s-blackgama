@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-blackgama&label=Profile%20views&color=0e75b6&style=flat" alt="s-blackgama" /> </p>
 
-- _ I am looking for collaboration. [https://t.me/blackgama](https://t.me/blackgama)
+- I am looking for collaboration. [https://t.me/blackgama](https://t.me/blackgama)
 
-- _ If you have any questions about HTML & CSS, ask me. [https://t.me/blackgama](https://t.me/blackgama)
+- If you have any questions about HTML & CSS, ask me. [https://t.me/blackgama](https://t.me/blackgama)
 
-- _ All of my projects are available at [https://github.com/s-blackgama](https://github.com/s-blackgama)
+- All of my projects are available at [https://github.com/s-blackgama](https://github.com/s-blackgama)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
